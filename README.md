@@ -12,9 +12,9 @@ To quickly get started with Pong, follow these steps:
 
 ## Building the Project
 
-To build the Pong project for your target platform, follow these steps:
+To build the game for your target platform, follow these steps:
 
-1. Open the project in Unity: Launch Unity and click "Open" in the Unity Hub. Navigate to the local path where you cloned the repository and select the Pong project folder.
+1. Open the project in Unity: Launch Unity and click "Open" in the Unity Hub. Navigate to the local path where you cloned the repository and select it.
 2. Build the project: In Unity, go to "File" > "Build Settings." Select your target platform (e.g., Windows) and click "Build." Choose a location to save the build files and wait for the build process to complete.
 3. Run the game: Once the build is complete, navigate to the build folder and run the executable file. Enjoy playing Pong!
 
