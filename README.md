@@ -40,7 +40,7 @@ For development, we recommend using the following IDEs:
 
 ## Scripts
 
-Please refer to the [Scripts](Assets/Scripts.md) documentation for an overview of the scripts used in the project.
+Please refer to the [Scripts](./Assets/Scripts.md) documentation for an overview of the scripts used in the project.
 
 Thank you for your interest in contributing to Pong! We appreciate your support.
 
