@@ -8,7 +8,7 @@ To quickly get started with Pong, follow these steps:
 
 1. Install GitHub Desktop: Visit the [GitHub Desktop website](https://desktop.github.com/) and download the application for your operating system. Open the downloaded binary and follow the installation instructions.
 2. Clone the repository: Open GitHub Desktop, click on "File" in the menu bar, and select "Clone Repository". In the "URL" field, enter the URL for [this repository](https://github.com/ncolesummers/pong). Choose a local path where you want to save the project and click on "Clone."
-3. For Windows Users, the project is already built and ready to play. Navigate to the `build` folder and run the `Pong.exe` file to play the game. For all other platforms, follow the steps in the "Building the Project" section below to build the project for your target platform.
+3. For Windows Users, the project is already built and ready to play. Navigate to the `build` folder and run the `Pong.exe` file to play the game. Follow the steps in the "Building the Project" section below for all other platforms to build the project for your target platform.
 
 ## Building the Project
 
@@ -30,10 +30,20 @@ If you would like to contribute to the development of Pong, please follow these 
 6. Test your changes: Run the game and test your changes to ensure they work as expected.
 7. Create a pull request: Once satisfied with your changes, push them to your forked repository and create a pull request on the original repository. Provide a clear description of your changes and any relevant information.
 
+### IDE Recommendations
+
+For development, we recommend using the following IDEs:
+
+- [Rider](https://www.jetbrains.com/rider/): In my experience, Rider has been the most reliable IDE for game development. It's free to all students with the [GitHub Student Developer Pack](https://education.github.com/pack).
+- [Visual Studio Code](https://code.visualstudio.com/): Visual Studio Code is currently the most popular IDE for development of all kinds. It is great to get started with, but it may require additional setup for Unity development.
+- [Visual Studio](https://visualstudio.microsoft.com/): Visual Studio is the official IDE for Unity development. It is an excellent choice if you are learning IDEs and Unity simultaneously.
+
 ## Scripts
 
 Please refer to the [Scripts](Assets/Scripts.md) documentation for an overview of the scripts used in the project.
 
 Thank you for your interest in contributing to Pong! We appreciate your support.
 
-Created by [N. Cole Summers](https://github.com/ncolesummers) for C.S. 383: Software Engineering at University of Idaho.
+Created by [N. Cole Summers](https://github.com/ncolesummers) for C.S. 383: Software Engineering at the University of Idaho.
+
+Thanks to Youtube user BMo for the concise and informative tutorial on creating a Pong game in Unity. Check out the tutorial [here](https://www.youtube.com/watch?v=YHSanceczXY).
