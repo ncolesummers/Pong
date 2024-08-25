@@ -25,8 +25,10 @@ public class GameManager : MonoBehaviour
 
     private int _player1Score;
     private int _player2Score;
+    // The text to display when a player wins or loses. In a modern game, this would be localized.
     private const string Winner = "Winner! :-)";
     private const string Loser = "Loser! :-(";
+    // The maximum score required to win the game. Traditionally, this is 11. For quicker iteration during devlopment, we'll use 5.
     private const int MaxScore = 5;
 
     /// <summary>
